@@ -1,7 +1,7 @@
 ## 📅 Day 1 – Introduction to the Company
 
 **🕒 Time:** 10:00 AM – 7:00 PM  
-**📆 Date:** *(Add actual date)*
+**📆 Date:** *07-01-2025*
 
 ### ✅ SOD (Start of Day)
 - Orientation session with HR and mentors.
